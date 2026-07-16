@@ -31,24 +31,7 @@ real-time data from the public CoinGecko API.
 | Data | [CoinGecko API](https://www.coingecko.com/en/api) (public, no auth) |
 | Icons | Lucide React |
 
-## Getting started
 
-```bash
-git clone https://github.com/your-username/ledger-dashboard.git
-cd ledger-dashboard
-npm install
-npm run dev
-```
-
-Open `http://localhost:5173`. No API key or `.env` file needed — CoinGecko's public
-markets endpoint is used directly from the browser.
-
-### Build for production
-
-```bash
-npm run build
-npm run preview
-```
 
 ## Project structure
 
