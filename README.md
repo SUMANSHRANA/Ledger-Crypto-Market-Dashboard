@@ -4,7 +4,7 @@ A live cryptocurrency dashboard with sortable market data, watchlists, sparkline
 price history charts. Built with React, Vite, Tailwind CSS, and Recharts, pulling
 real-time data from the public CoinGecko API.
 
-**[Live demo →](#)** *(add your deployed link here after publishing)*
+**[Live demo →](#)** https://ledger-crypto-market-dashboard.onrender.com/
 
 ## Features
 
